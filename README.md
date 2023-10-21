@@ -1,4 +1,4 @@
-# Phishing Attacker Flooder
+# Phishing Attacker Flooder  * Kinda Broken, A Fix might be worked on *
 
 This Python script is designed to flood phishing attackers that create fake login websites with a large number of bogus email and password combinations.
 
